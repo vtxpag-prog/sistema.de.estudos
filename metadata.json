@@ -1,0 +1,6 @@
+{
+  "name": "Plataforma de Estudos ENEM Inclusiva",
+  "description": "Sistema inclusivo e gratuito de estudos para o ENEM com preparação gradual (1º ao 3º ano), adaptações para TDAH, TEA e Dislexia, redação com IA e 6 níveis de acesso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
